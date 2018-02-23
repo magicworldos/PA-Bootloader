@@ -9,3 +9,5 @@
 Bootloader.zip
 Bootloader.sublime-workspace
 .gdbinit
+build/*
+build_*/
